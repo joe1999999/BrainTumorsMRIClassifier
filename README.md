@@ -4,6 +4,8 @@
 
 Vast amounts of neuroimaging data is generated everyday around the world. This treasure of potential information and insight is waiting to be exploited by modern deep learning techniques. Experts (Neurosurgeons, Radiologists) aren't always present to interpret MRI scans, especially in countries with sub-optimal healthcare services (e.g. 3rd world countries). Hence the ever rising need for using machine learning techniques to build accurate neural networks that can help clinicians with making fast diagnosis reliably and therefore gaining valuable time in the context of optimal patient management and low resources. This is a very simple example of using 'Transfer Learning' on a small MRI images dataset containing 3 classes of brain tumors and a class representing normal brain images. The goal was to achieve acceptabe prediction accuracy.
 
+![image](https://user-images.githubusercontent.com/39844459/226185565-41a29c3c-e2d9-4027-8966-d0b1e64e8e1d.png)
+
 ## Technical stuff
 This is a jupyter notebook, feel free to tweak and expirement on it.
 Tensorflow, Keras, OpenCV and various other python libraries are needed, make sure to 'pip install' all the dependencies before you start.
