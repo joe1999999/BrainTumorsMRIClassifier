@@ -1,2 +1,2 @@
 # BrainTumoursMRIClassifier
-A Brain Tumors classifier using MRI images.
+A Brain Tumors Classification using MRI images.
