@@ -15,5 +15,5 @@ Acknowledgements for the Dataset used for the training:
 Navoneel Chakrabarty
 Swati Kanchan
 
-Dataset link : https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?resource=download
-Inspired by: https://www.kaggle.com/code/jaykumar1607/brain-tumor-mri-classification-tensorflow-cnn
+Dataset:https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?resource=download
+Inspiration: https://www.kaggle.com/code/jaykumar1607/brain-tumor-mri-classification-tensorflow-cnn
