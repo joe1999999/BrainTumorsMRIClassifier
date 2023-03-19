@@ -1,4 +1,4 @@
-# BrainTumoursMRIClassifier
+# BrainTumorsMRIClassifier
 
 ## Brain Tumor Classification from MRI images.
 
