@@ -1,6 +1,6 @@
 # BrainTumoursMRIClassifier
 
-## Brain Tumors Classification using MRI images.
+## Brain Tumor Classification from MRI images.
 
 Vast amounts of neuroimaging data is generated everyday around the world. This treasure of potential information and insight is waiting to be exploited by modern deep learning techniques. Experts (Neurosurgeons, Radiologists) aren't always present to interpret MRI scans, especially in countries with sub-optimal healthcare services (e.g. 3rd world countries). Hence the ever rising need for using machine learning techniques to build accurate neural networks that can help clinicians with making fast diagnosis reliably and therefore gaining valuable time in the context of optimal patient management and low resources. This is a very simple example of using 'Transfer Learning' on a small MRI images dataset containing 3 classes of brain tumors and a class representing normal brain images. The goal was to achieve acceptabe prediction accuracy.
 
