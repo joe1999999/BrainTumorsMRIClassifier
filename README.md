@@ -8,7 +8,8 @@ This is a jupyter notebook, feel free to tweak and expirement on it.
 Tensorflow, Keras, OpenCV and various other python libraries are needed, make sure to 'pip install' all the dependencies before you start.
 The best accuracy was achieved was ~98% after 12 epochs of training.
 Images were scaled down to 150px by 150px.
-The subfolder '/checkpoint' contains the final model's weights that you can load into your own built module etc ...
+This google drive folder contains the final model's weights that you can load into your own built models:
+https://drive.google.com/drive/folders/11PpJjjvRy4lP4nZk_MeakWecVGrVZl5g?usp=sharing
   
 ##Sources
 Acknowledgements for the Dataset used for the training:
