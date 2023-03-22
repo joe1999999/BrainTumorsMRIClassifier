@@ -10,9 +10,8 @@ Vast amounts of neuroimaging data is generated everyday around the world. This t
 This is a jupyter notebook, feel free to tweak and expirement on it.
 Tensorflow, Keras, OpenCV and various other python libraries are needed, make sure to 'pip install' all the dependencies before you start.
 The best accuracy was achieved was 98.31% after 10 epochs of training.
-![report](https://user-images.githubusercontent.com/39844459/227056678-cbffc4ad-d6a3-428b-a387-442204982520.png)
 
-Images were scaled down to 150px by 150px.
+![report](https://user-images.githubusercontent.com/39844459/227056678-cbffc4ad-d6a3-428b-a387-442204982520.png)
 
 This is the trained model if you want to use it directly : 
 https://drive.google.com/drive/folders/1-zqmjH6wuZhJmu5yRSK7bSlEx9UIUPiQ?usp=sharing
