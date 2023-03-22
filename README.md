@@ -17,7 +17,7 @@ This is the trained model if you want to use it directly :
 https://drive.google.com/drive/folders/1-zqmjH6wuZhJmu5yRSK7bSlEx9UIUPiQ?usp=sharing
 
 ## The Dataset
-I dataset i used to train this model is a combination between 2 different datasets acknowledged below.
+The dataset I used to train this model is a combination between 2 different datasets acknowledged below in 'Sources'.
 Training data:
 https://drive.google.com/drive/folders/19jxQMMKWK3-MKlzjyFQ3Q_2mDG3d8QXB?usp=sharing
 Testing data:
