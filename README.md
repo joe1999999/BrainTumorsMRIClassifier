@@ -9,7 +9,7 @@ Vast amounts of neuroimaging data is generated everyday around the world. This t
 ## Technical stuff
 This is a jupyter notebook, feel free to tweak and expirement on it.
 Tensorflow, Keras, OpenCV and various other python libraries are needed, make sure to 'pip install' all the dependencies before you start.
-The best accuracy was achieved was 98.31% after 10 epochs of training.
+The best accuracy value achieved was 98.31% after just 10 epochs of training.
 
 ![report](https://user-images.githubusercontent.com/39844459/227056678-cbffc4ad-d6a3-428b-a387-442204982520.png)
 
